@@ -1,0 +1,5 @@
+{
+  "INFO": "This is only an example",
+  "token": "DISCORD_API_TOKEN", 
+  "guildID": "ID of the guild for guild only commands"
+}
